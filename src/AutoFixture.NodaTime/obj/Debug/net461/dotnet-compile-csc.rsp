@@ -1,0 +1,39 @@
+﻿-d:DEBUG
+-d:TRACE
+-d:NET461
+-nowarn:CS1701
+-nowarn:CS1702
+-nowarn:CS1705
+-t:library
+-debug:full
+-nostdlib
+-nologo
+"C:\Users\AB\Source\Repos\AutoFixture.NodaTime\src\AutoFixture.NodaTime\obj\Debug\net461\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\AB\Source\Repos\AutoFixture.NodaTime\src\AutoFixture.NodaTime\bin\Debug\net461\AutoFixture.NodaTime.dll"
+-r:"C:\Users\AB\.nuget\packages\AutoFixture\3.50.2\lib\net40\Ploeh.AutoFixture.dll"
+-r:"C:\Users\AB\.nuget\packages\AutoFixture.Xunit2\3.50.2\lib\net45\Ploeh.AutoFixture.Xunit2.dll"
+-r:"C:\Users\AB\.nuget\packages\NodaTime\2.0.0-alpha20160729\lib\net45\NodaTime.dll"
+-r:"C:\Users\AB\.nuget\packages\xunit.abstractions\2.0.0\lib\net35\xunit.abstractions.dll"
+-r:"C:\Users\AB\.nuget\packages\xunit.extensibility.core\2.0.0\lib\portable-net45+win+wpa81+wp80+monotouch+monoandroid+Xamarin.iOS\xunit.core.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\mscorlib.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Core.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Microsoft.CSharp.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Numerics.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Xml.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Runtime.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Reflection.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Threading.Tasks.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Collections.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Linq.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Globalization.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Runtime.Extensions.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Reflection.Extensions.dll"
+-r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Diagnostics.Debug.dll"
+"C:\Users\AB\Source\Repos\AutoFixture.NodaTime\src\AutoFixture.NodaTime\LocalDateGenerator.cs"
+"C:\Users\AB\Source\Repos\AutoFixture.NodaTime\src\AutoFixture.NodaTime\LocalDateTimeGenerator.cs"
+"C:\Users\AB\Source\Repos\AutoFixture.NodaTime\src\AutoFixture.NodaTime\LocalTimeGenerator.cs"
+"C:\Users\AB\Source\Repos\AutoFixture.NodaTime\src\AutoFixture.NodaTime\NodaTimeCustomization.cs"
+"C:\Users\AB\Source\Repos\AutoFixture.NodaTime\src\AutoFixture.NodaTime\Properties\AssemblyInfo.cs"
+"C:\Users\AB\Source\Repos\AutoFixture.NodaTime\src\AutoFixture.NodaTime\Xunit2\InlineNodaTimeAutoDataAttribute.cs"
+"C:\Users\AB\Source\Repos\AutoFixture.NodaTime\src\AutoFixture.NodaTime\Xunit2\NodaTimeAutoDataAttribute.cs"
