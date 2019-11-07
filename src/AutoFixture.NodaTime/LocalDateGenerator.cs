@@ -1,5 +1,5 @@
-﻿using NodaTime;
-using Ploeh.AutoFixture.Kernel;
+﻿using AutoFixture.Kernel;
+using NodaTime;
 using System;
 
 namespace AutoFixture.NodaTime

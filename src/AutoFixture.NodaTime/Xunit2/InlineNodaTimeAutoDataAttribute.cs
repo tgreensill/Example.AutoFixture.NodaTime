@@ -1,6 +1,5 @@
-﻿using Ploeh.AutoFixture.Xunit2;
+﻿using AutoFixture.Xunit2;
 using Xunit;
-using Xunit.Sdk;
 
 namespace AutoFixture.NodaTime.Xunit2
 {

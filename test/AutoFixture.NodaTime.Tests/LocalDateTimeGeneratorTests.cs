@@ -1,6 +1,5 @@
 ﻿using FluentAssertions;
 using NodaTime;
-using Ploeh.AutoFixture;
 using System;
 using System.Reflection;
 using Xunit;
@@ -19,7 +18,7 @@ namespace AutoFixture.NodaTime.Tests
             Action action = () => fixture.Create<LocalDate>();
 
             // Assert
-            action.ShouldThrow<TargetInvocationException>(because: "LocalDateTime is not supported out of the box");
+            action.Should().Throw<Exception>(because: "LocalDateTime is not supported out of the box");
         }
 
         [Fact]
